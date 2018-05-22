@@ -1,0 +1,6 @@
+framework module Pods_SunnyPoznan {
+  umbrella header "Pods-SunnyPoznan-umbrella.h"
+
+  export *
+  module * { export * }
+}
